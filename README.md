@@ -14,3 +14,11 @@ and help reduce teaching time.
 Outcomes:
 The model has to provide the caption of the image or the short summary of what the image is
 about.
+
+# WORKING MODEL DEPLOYED USING GRADIO
+
+# IMAGES OF MODEL
+![image](https://github.com/user-attachments/assets/4d49c3a6-87a5-4556-9379-974a0af5d80e)
+
+![Screenshot 2024-12-26 061936](https://github.com/user-attachments/assets/bd5f86dd-51b3-4a4d-950c-e028b13ee5b3)
+
